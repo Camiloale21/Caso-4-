@@ -28,6 +28,12 @@ QWE Inc. ofrece a pequeñas y medianas empresas un servicio de suscripción para
 3. **Modelamiento** (`03_Modelamiento.R`): modelo de probabilidad lineal, logit con edad lineal y logit con segmentos de antigüedad. Comparación por AIC, AUC fuera de muestra y validez de las probabilidades. El modelo elegido se re-estima con toda la base.
 4. **Resultados** (`04_Resultados.R`): matriz de confusión, lift por deciles, lista de los 100 clientes de mayor riesgo y descomposición de cada probabilidad en la contribución de cada factor.
 
+## Principales resultados
+
+* Los clientes de **6 a 14 meses** son los más riesgosos (7,2 % frente a 1,6 % de los de menos de 6 meses); el abandono llega a 20,7 % en el mes 12.
+* Modelo final: **logit con segmentos de antigüedad**, con AUC de 0,678 fuera de muestra. Los factores significativos son la antigüedad, el CHI, la caída del CHI, la caída de vistas y el aumento de días sin iniciar sesión.
+* El 10 % de clientes con mayor riesgo concentra el **33 %** de los abandonos. De los 100 clientes de la lista, **29 abandonaron** (5,7 veces la tasa base de 5,1 %).
+
 ## Tecnologías
 
 * R (≥ 4.2) y RStudio
@@ -83,3 +89,7 @@ Si no usa RStudio, fije el directorio de trabajo en la raíz del repositorio con
 | Código reproducible en R | `03_Codigo_R/` |
 | Tablas y gráficos | `04_Resultados/` |
 | Documentación y anexos | `01_Documentacion/`, `06_Anexos/` |
+
+## Uso de inteligencia artificial
+
+Conforme al sílabo, declaramos que usamos un asistente de IA (Claude, de Anthropic) como apoyo para generar el código en R, organizar el repositorio y redactar un primer borrador del informe. El equipo ejecutó y verificó el código, revisó y discutió cada decisión metodológica y ajustó la interpretación y las conclusiones; asumimos la responsabilidad por ellas y podemos sustentarlas sin apoyo de la IA. El detalle está al final del informe.
