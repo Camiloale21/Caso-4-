@@ -1,0 +1,5 @@
+prueba,estadistico,gl,p_valor
+Chi-cuadrado de independencia (3 segmentos),65.53937539705616,2,5.865505668533181e-15
+Proporciones: 6_a_14 vs Menos_6,66.10726683575862,1,4.270384561099021e-16
+Proporciones: 6_a_14 vs Mas_14,5.466860888911938,1,0.019380405664767494
+Proporciones: Mas_14 vs Menos_6,40.12530515942136,1,2.3818349825473036e-10
