@@ -1,0 +1,12 @@
+# Archivos de sesion de R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Rapp.history
+
+# Modelos serializados (se regeneran con 03_Modelamiento.R)
+*.rds
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
