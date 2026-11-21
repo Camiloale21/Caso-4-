@@ -1,0 +1,10 @@
+indicador,valor
+Umbral de clasificacion,0.05139818826309571
+Verdaderos positivos,34.0
+Falsos negativos,28.0
+Falsos positivos,409.0
+Verdaderos negativos,798.0
+Sensibilidad,0.5483870967741935
+Especificidad,0.6611433305716653
+Precision,0.07674943566591422
+Exactitud,0.6556343577620173

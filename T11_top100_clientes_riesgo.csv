@@ -1,0 +1,101 @@
+ranking,id,edad_meses,segmento_edad,prob_churn,factor_1,factor_2,factor_3,churn_observado
+1,357,12,6_a_14,0.3721,Cambio vistas (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+2,929,11,6_a_14,0.2974,Cambio vistas (bajo),Antiguedad 6-14 meses,,0
+3,2287,34,Mas_14,0.2624,Cambio vistas (bajo),Antiguedad >14 meses,,0
+4,3604,9,6_a_14,0.2329,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+5,335,12,6_a_14,0.2241,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+6,4680,6,6_a_14,0.2201,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio vistas (bajo),1
+7,299,14,6_a_14,0.2187,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+8,3671,10,6_a_14,0.2186,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+9,109,40,Mas_14,0.2137,CHI mes 0 (bajo),Cambio CHI (bajo),Antiguedad >14 meses,0
+10,3569,9,6_a_14,0.212,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+11,4292,7,6_a_14,0.2107,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+12,798,14,6_a_14,0.2106,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+13,1021,13,6_a_14,0.21,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+14,2025,28,Mas_14,0.2076,CHI mes 0 (bajo),Cambio vistas (bajo),Antiguedad >14 meses,0
+15,3340,10,6_a_14,0.2034,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+16,240,13,6_a_14,0.2032,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+17,3504,11,6_a_14,0.2016,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+18,4276,7,6_a_14,0.2016,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+19,4245,8,6_a_14,0.1988,Antiguedad 6-14 meses,CHI mes 0 (bajo),Cambio CHI (bajo),0
+20,1971,30,Mas_14,0.1988,CHI mes 0 (bajo),Cambio CHI (bajo),Antiguedad >14 meses,0
+21,526,13,6_a_14,0.1982,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+22,904,14,6_a_14,0.1969,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),1
+23,3766,10,6_a_14,0.1967,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+24,622,14,6_a_14,0.1959,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+25,3320,11,6_a_14,0.1951,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+26,3783,10,6_a_14,0.1938,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+27,991,9,6_a_14,0.1936,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+28,3356,10,6_a_14,0.1914,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+29,3219,10,6_a_14,0.1904,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+30,3724,10,6_a_14,0.1902,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+31,4954,6,6_a_14,0.1899,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+32,228,14,6_a_14,0.1898,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio CHI (bajo),0
+33,4532,7,6_a_14,0.1897,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+34,4111,8,6_a_14,0.1885,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+35,1809,14,6_a_14,0.1883,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+36,2410,6,6_a_14,0.1883,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+37,3163,11,6_a_14,0.1883,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+38,4827,6,6_a_14,0.1881,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+39,272,14,6_a_14,0.1881,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+40,4240,8,6_a_14,0.1881,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+41,413,13,6_a_14,0.188,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+42,4289,7,6_a_14,0.188,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+43,994,14,6_a_14,0.1879,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+44,4094,8,6_a_14,0.1879,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+45,4263,7,6_a_14,0.1879,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+46,4479,9,6_a_14,0.1879,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+47,4818,6,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+48,279,12,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+49,416,13,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+50,926,14,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+51,3235,11,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+52,4027,8,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+53,896,14,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+54,3265,11,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+55,3734,9,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+56,551,11,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+57,3526,11,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+58,4594,7,6_a_14,0.1878,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+59,3418,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+60,4113,8,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+61,4566,7,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+62,227,13,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+63,761,10,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+64,979,13,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+65,3536,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+66,4076,8,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+67,257,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+68,317,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+69,346,14,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+70,363,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+71,371,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+72,423,10,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+73,427,13,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+74,440,13,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+75,488,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+76,523,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+77,543,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+78,787,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+79,1468,9,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+80,1760,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+81,2985,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+82,3139,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+83,3152,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+84,3186,10,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+85,3269,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+86,3290,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+87,3312,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+88,3313,12,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+89,3349,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+90,3363,9,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),1
+91,3417,10,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+92,3437,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+93,3449,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+94,3491,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+95,3542,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+96,3545,11,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+97,3598,10,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+98,3600,10,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+99,3613,8,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
+100,3723,8,6_a_14,0.1877,CHI mes 0 (bajo),Antiguedad 6-14 meses,Cambio dias desde ultimo login (alto),0
