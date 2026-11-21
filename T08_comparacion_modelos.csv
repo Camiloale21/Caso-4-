@@ -1,0 +1,4 @@
+modelo,AIC_entrenamiento,AUC_prueba,predicciones_fuera_0_1
+M1 MPL (edad lineal),,0.6344843253066788,219
+M2 Logit (edad lineal),1985.3037987932173,0.6396156827110672,0
+M3 Logit (segmentos de edad),1881.583316042073,0.6777801534062058,0
